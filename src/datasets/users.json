@@ -1,0 +1,13 @@
+[
+  {
+    "_id": {
+      "$oid": "624d7c713e52b83383e0cdc4"
+    },
+    "email": "foo@bar.foo",
+    "firstName": "Foo",
+    "lastName": "Bar",
+    "external": {
+      "id": "usr_p1C5xM7Kb2eh4bjyKQpHtJ3s"
+    }
+  }
+]
